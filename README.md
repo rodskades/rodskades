@@ -5,7 +5,7 @@
 ## Bem vindo ao meu perfil! 
 - Sou engenheiro mecânico 👨🏻‍🔧 
 - Mestre em Engenharia 👨🏻‍🔬
-- Desenvolvedor Python 👨🏻‍💻
+- Desenvolvedor Python 💙💛
 - E amante de TTRPG nas horas vagas 🧙🏻‍♂️
 - Atualmente estou aprendendo Django Framework! <img alt="Rods-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 

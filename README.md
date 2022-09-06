@@ -1,3 +1,5 @@
+<img src = "banner.gif" width = "250px" align = "right">
+
 # Olá! 🧡
 
 ## Bem vindo ao meu perfil! 

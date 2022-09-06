@@ -29,9 +29,9 @@
 
 ---
 
-<div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodskades&show_icons=true&theme=slateorange&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=rodskades&show_icons=true&theme=slateorange&count_private=true" />
+<div align = "center">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodskades&show_icons=true&theme=slateorange&count_private=true"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=rodskades&show_icons=true&theme=slateorange&count_private=true" />
 </div>
 
 ---

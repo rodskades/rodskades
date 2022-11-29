@@ -28,6 +28,12 @@
   <img align="center" alt="Rods-CouchDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg">
 </div>
 
+---
+
+<div align = "center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodskades&show_icons=true&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodskades&layout=compact&langs_count=7&theme=slateorange"/>
+</div>
 
 ---
 

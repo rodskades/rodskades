@@ -7,7 +7,7 @@
 - Mestre em Engenharia 👨🏻‍🔬
 - Desenvolvedor Python 💙💛
 - E amante de TTRPG nas horas vagas 🧙🏻‍♂️
-- Atualmente estou aprendendo JavaScript! <img alt="Rods-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+- Atualmente estou aprendendo Django REST Framework! <img alt="Rods-DjangoREST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rodolpho-kades" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -27,6 +27,7 @@
   <img align="center" alt="Rods-MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rods-Redis" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
   <img align="center" alt="Rods-CouchDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg">
+  <img align="center" alt="Rods-JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
 
 ---

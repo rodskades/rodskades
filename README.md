@@ -7,7 +7,7 @@
 - Mestre em Engenharia 👨🏻‍🔬
 - Desenvolvedor Python 💙💛
 - E amante de TTRPG nas horas vagas 🧙🏻‍♂️
-- Atualmente estou aprendendo Django REST Framework! <img alt="Rods-DjangoREST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+- Atualmente estou aprendendo Django REST Framework! <img alt="Rods-DjangoREST" height="80" width="80" src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rodolpho-kades" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
